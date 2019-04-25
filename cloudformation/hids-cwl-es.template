@@ -26,6 +26,8 @@ Mappings:
       AmznLinux: ami-165a0876
     us-west-2:
       AmznLinux: ami-f173cc91
+    ca-central-1:
+      AmznLinux: ami-0b18956f
 Parameters:
   HIDSInstanceSize:
     Default: "t2.micro"
